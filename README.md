@@ -13,10 +13,9 @@
 <br>
 
 <p align="left">
-  I'm software developer specialize in building and maintaining web applications using JavaScript and modern frameworks. I'm committed to improving my skills with a focus on delivering high-quality, user-friendly experiences. Passionate about continuous learning, I stay updated with industry trends and strive to create efficient, scalable solutions.
+  I'm software engineer specialize in building and maintaining web applications using JavaScript and modern frameworks. I'm committed to improving my skills with a focus on delivering high-quality, user-friendly experiences. Passionate about continuous learning, I stay updated with industry trends and strive to create efficient, scalable solutions.
 </p>
 
-- 🔭 I’m currently working on [Plus Impact](https://www.plustalent.co/)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://nyeinphyoaung.com/) for more details about me.
 
